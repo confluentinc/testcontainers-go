@@ -24,7 +24,7 @@ require (
 	github.com/opencontainers/image-spec v1.0.1 // indirect
 	github.com/opencontainers/runc v0.1.1 // indirect
 	github.com/pkg/errors v0.8.1
-	github.com/satori/go.uuid v1.2.0
+	github.com/satori/go.uuid v1.2.1-0.20181028125025-b2ce2384e17b
 	github.com/sirupsen/logrus v1.2.0 // indirect
 	golang.org/x/sys v0.0.0-20181228144115-9a3f9b0469bb // indirect
 	golang.org/x/time v0.0.0-20181108054448-85acf8d2951c // indirect
